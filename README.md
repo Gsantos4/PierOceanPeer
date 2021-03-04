@@ -1,4 +1,7 @@
 # Pier Ocean Peer (POP)
+[![GitHub license](https://img.shields.io/github/license/NVIDIA/nvidia-docker?style=flat-square)]()
+[![Documentation](https://img.shields.io/badge/documentation-wiki-blue.svg?style=flat-square)]()
+[![Package repository](https://img.shields.io/badge/packages-repository-b956e8.svg?style=flat-square)]()
 ![Pier Ocean Peer (sensor hub)](https://user-images.githubusercontent.com/52707386/110014697-f844bf80-7cd7-11eb-8a3d-dba524168be6.png)
 *Development-board-based ocean monitoring sensor hub deployed on the Cal Poly Pier*
 

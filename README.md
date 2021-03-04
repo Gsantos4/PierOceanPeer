@@ -18,7 +18,3 @@ How can we turn the Cal Poly Pier, a staggering half-mile long structure stretch
 ## Meet the Team
 
 ![Screenshot 2021-03-04 121642 - Copy](https://user-images.githubusercontent.com/52707386/110027531-f1717900-7ce6-11eb-9b73-596a042f2f29.png)
-
-[1200px-Service_mark_of_the_Monterey_Bay_Aquarium_Research_Institute_(MBARI) svg](https://user-images.githubusercontent.com/52707386/110017962-a6059d80-7cdb-11eb-9c44-aa1f22a5226d.png)
-
-![logo_dont_rearrange-300x167](https://user-images.githubusercontent.com/52707386/110017973-a9008e00-7cdb-11eb-9bba-8ae99ae1919a.png)

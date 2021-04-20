@@ -14,25 +14,7 @@ How can we turn the Cal Poly Pier, a staggering half-mile long structure stretch
 [Youtube](https://www.youtube.com/channel/UCzPzillcGqliZ5dFIPqYFyw)
 
 ## Timeline
-November 2020
-  21    - POPv1 (RPi4) deployed!
-  23-25 - Camera tests
-December 2020
-  Streaming tests
-  Nvidia Start
-          JNano
-          Getting Started With AI
-          Getting Started with DeepStream
-January 2021
-  19    - Camera and lens tests (youtube)
-February 2021
-  AI start
-          Images pulled from youtube streams
-          Images annotated using CVAT
-          Nvidia provided object detection model trained with annotated images
-          Model tested on youtube stream
-  8-16 -  Developing power system for POPv2 (JNano)
-  
+![image](https://user-images.githubusercontent.com/52707386/115439448-734c3180-a1c3-11eb-857f-787e3fcf6544.png)
 
 ## Meet the Team
 

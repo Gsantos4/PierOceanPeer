@@ -14,7 +14,7 @@ How can we turn the Cal Poly Pier, a staggering half-mile long structure stretch
 [Youtube](https://www.youtube.com/channel/UCzPzillcGqliZ5dFIPqYFyw)
 
 ## Timeline
-![image](https://user-images.githubusercontent.com/52707386/115439448-734c3180-a1c3-11eb-857f-787e3fcf6544.png)
+![image](https://user-images.githubusercontent.com/52707386/115439585-9840a480-a1c3-11eb-965e-58f61ca90fd5.png)
 
 ## Meet the Team
 

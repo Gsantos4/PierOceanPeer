@@ -6,7 +6,7 @@
 *Development-board-based ocean monitoring sensor hub deployed on the Cal Poly Pier. Image from Gabriel M. Santos Elizondo*
 
 ## Introduction
-How can we turn the Cal Poly Pier, a staggering half-mile long structure stretching out into Avila Bay, into a home for student-led ocean exploration? This is the question that [Thom Maughan](https://www.mbari.org/maughan-thom/) of MBARI asked himself when he first heard about the Pier. Extending far into the ocean, the pier offers a platform from which to study all types of ocean organisms and phenomenon and since it's acquisition in 1984 Cal Poly has led a myriad of [research projects](http://www.marine.calpoly.edu/cal-poly-pier). Fast forward a few years and a student team, mentored by Thom, and Bridgette Benson of Cal Poly, was put together to tackle this challenge. The result, the **Pier Ocean Peer**. A Jetson-Nano-based hub for information gathering.
+How can we turn the Cal Poly Pier, a staggering half-mile long structure stretching out into Avila Bay, into a home for student-led ocean exploration? This is the question that [Thom Maughan](https://www.mbari.org/maughan-thom/) of MBARI asked himself when he first heard about the Pier. Extending far into the ocean, the pier offers a platform from which to study all types of ocean organisms and phenomenon and since it's acquisition in 1984 Cal Poly has led a myriad of [research projects](http://www.marine.calpoly.edu/cal-poly-pier). Fast forward a few years and a student team, mentored by Thom, and Bridgette Benson of Cal Poly, was put together to tackle this challenge. The result, the **Pier Ocean Peer**. A [Jetson-Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)-based hub for information gathering.
 
 ## News
 
@@ -14,6 +14,25 @@ How can we turn the Cal Poly Pier, a staggering half-mile long structure stretch
 [Youtube](https://www.youtube.com/channel/UCzPzillcGqliZ5dFIPqYFyw)
 
 ## Timeline
+November 2020
+  21    - POPv1 (RPi4) deployed!
+  23-25 - Camera tests
+December 2020
+  Streaming tests
+  Nvidia Start
+          JNano
+          Getting Started With AI
+          Getting Started with DeepStream
+January 2021
+  19    - Camera and lens tests (youtube)
+February 2021
+  AI start
+          Images pulled from youtube streams
+          Images annotated using CVAT
+          Nvidia provided object detection model trained with annotated images
+          Model tested on youtube stream
+  8-16 -  Developing power system for POPv2 (JNano)
+  
 
 ## Meet the Team
 

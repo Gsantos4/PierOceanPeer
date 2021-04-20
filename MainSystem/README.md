@@ -6,7 +6,7 @@ The system is comprised of **4 main elements: Board, Power, Comms, Housing&Mount
 ### Board (Jetson Nano B01)
 Main 'brain' of the system
 
-<img src="https://user-images.githubusercontent.com/52707386/115441078-50228180-a1c5-11eb-9051-7f0f518564c5.jpg" alt="nvidia-jetson-nano-developer-kit-b01-945-13450-0000-100-64a" style="width:500px;height:600px;">
+<img src="https://user-images.githubusercontent.com/52707386/115441078-50228180-a1c5-11eb-9051-7f0f518564c5.jpg" alt="nvidia-jetson-nano-developer-kit-b01-945-13450-0000-100-64a" style="width:250px;height:300px;">
 
 ### Power
 Solar arrangement + battery + connections
